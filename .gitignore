@@ -1,0 +1,12 @@
+
+.github/.DS_Store
+.github/ISSUE_TEMPLATE/.DS_Store
+.github/workflows/.DS_Store
+assets/css/.DS_Store
+assets/css/common/.DS_Store
+assets/css/core/.DS_Store
+assets/css/extended/.DS_Store
+assets/css/hljs/.DS_Store
+layouts/.DS_Store
+layouts/partials/.DS_Store
+layouts/partials/templates/.DS_Store
